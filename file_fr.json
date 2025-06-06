@@ -1,0 +1,13 @@
+{
+  "the_cat": "Le chat",
+  "vehicles": [
+    "voiture",
+    "Voiture",
+    "vélo",
+    "Le vélo a changé"
+  ],
+   "colors":{
+    "blue": "Bleu",
+    "red": "Rouge"
+   }
+}
